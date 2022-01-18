@@ -1,0 +1,35 @@
+/* Extra large devices (large laptops and desktops, 1200px and down) */
+@media only screen and (max-width: 1330px) {
+
+
+
+}
+
+
+
+
+/* Large devices (laptops/desktops, 1024px and down) */
+@media only screen and (max-width: 1024px) {
+
+
+
+
+}
+
+
+/* small devices (phones, 768px and down) */
+@media only screen and (max-width: 768px) {
+
+
+
+
+}
+
+
+
+/* Extra small devices (phones, 411px and down) */
+@media only screen and (max-width: 411px) {
+
+
+
+ }
